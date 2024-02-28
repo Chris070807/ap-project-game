@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAIiLu7g4AACDM4u7u/wAAwiy+4u7/DyBE5Lvi7v8PICLku+Lu/w8gIuTu7u7+ACAi5Lvy/+4AICLku+L+7gAgIuS74v7+ACAi4r7i7/8PIMy87vLu/w8Awswr7u7/DwAgRCQi7v4PAAAiItLi7gAAAC0i0u0OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Car"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAIiLu7g4AACDM4u7u/wAAwiy+4u7/DyBE5Lvi7v8PICLku+Lu/w8gIuTu7u7+ACAi5Lvy/+4AICLku+L+7gAgIuS74v7+ACAi4r7i7/8PIMy87vLu/w8Awswr7u7/DwAgRCQi7v4PAAAiItLi7gAAAC0i0u0OAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "car"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA0GZmjQgAAABtZtaNCAAAAGZm1oaIAABgmWlmiPgPAMbMa4iI/w9gzLyI9oj/D2BmhriGj/8PYGaJu4b4+ABgZom7hviIAGBmibv2/4gAYGaJiIiI+ABgZom7hoj/D2CZibuGiP8PAMZsuIaI/w8AYMyGiIj/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "car2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
